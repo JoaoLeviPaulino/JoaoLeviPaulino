@@ -5,7 +5,7 @@
 - 🎓 Bacharel em Relações Internacionais com MBA em Big Data e Inteligência Competitiva em andamento
 - 📖 Me aprimorando em Análise de Dados e Business Intelligence
 - 🗺️ Rio de Janeiro - Brasil
-- 📊 Trabalhando em projetos pessoais com análise, manipulação de dadoos e criação de Dashboards.
+- 📊 Trabalhando em projetos pessoais com análise, manipulação de dados e criação de Dashboards.
 - 🕵️ Buscando conhecimento
 
 #### 🕹️ Amante de jogos como:
