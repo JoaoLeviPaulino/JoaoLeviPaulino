@@ -1,5 +1,5 @@
 ### Olá! Me chamo João Levi Paulino 👋
-![ezgif com-resize](https://user-images.githubusercontent.com/123471160/218549571-49868818-b51c-4d09-babd-a36508f86c27.gif)
+![Simple black and white text gif- (1) (1)](https://user-images.githubusercontent.com/123471160/219111493-2c21528c-a7e6-4773-b10f-8355448b4e01.gif)
 
 
 - 🎓 Bacharel em Relações Internacionais com MBA em Big Data e Inteligência Competitiva em andamento
