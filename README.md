@@ -3,7 +3,7 @@
 
 
 
-- 🎓 Bacharel em Relações Internacionais com MBA em Big Data e Inteligência Competitiva em andamento
+- 🎓 Bacharel em Relações Internacionais com MBA em Big Data e Inteligência Competitiva.
 - 📖 Me aprimorando em Análise de Dados e Business Intelligence
 - 🗺️ Rio de Janeiro - Brasil
 - 📊 Trabalhando como Freelance, e em projetos pessoais com análise, manipulação de dados e criação de Dashboards.
@@ -18,7 +18,7 @@
 
 ## Soft Skills:
 
-Visão Analítica | Pensamento Crítico | Oratória | Gestão de tempo | Economia | Estatística | Fundamentos de Scrum | ETL/ELT |
+Visão Analítica | Pensamento Crítico | Oratória | Gestão de tempo | Economia | Estatística | Fundamentos de Scrum | ETL/ELT | Lean Six Sigma White Belt
 
 ## Hard Skills: 
 <div style="display: inline_block"><br>
